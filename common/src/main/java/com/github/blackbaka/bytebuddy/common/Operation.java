@@ -1,4 +1,4 @@
-package com.github.blackbaka.bytebuddy.addmethod.demo;
+package com.github.blackbaka.bytebuddy.common;
 
 /**
  * @Author BlackBAKA

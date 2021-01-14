@@ -1,6 +1,6 @@
 package com.github.blackbaka.bytebuddy.interceptmethod.agent;
 
-import com.github.blackbaka.bytebuddy.interceptmethod.demo.Operation;
+import com.github.blackbaka.bytebuddy.common.Operation;
 import net.bytebuddy.agent.builder.AgentBuilder;
 import net.bytebuddy.asm.Advice;
 import net.bytebuddy.matcher.ElementMatchers;

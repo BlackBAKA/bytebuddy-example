@@ -11,6 +11,8 @@
     <modules>
         <module>javaagent</module>
         <module>runtime</module>
+        <module>common</module>
+        <module>application</module>
     </modules>
 
     <properties>

@@ -1,6 +1,6 @@
 package com.github.blackbaka.bytebuddy.delegation.agent;
 
-import com.github.blackbaka.bytebuddy.delegation.demo.Operation;
+import com.github.blackbaka.bytebuddy.common.Operation;
 import net.bytebuddy.agent.builder.AgentBuilder;
 import net.bytebuddy.implementation.MethodDelegation;
 import net.bytebuddy.matcher.ElementMatchers;
